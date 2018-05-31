@@ -1,0 +1,9 @@
+
+1:Sleep de 2 use prefabs in de scene.
+2: Verwijder de collider van Shape Mesh.
+3: In Shape Creator, sleep Shape mesh in de mesh filter in het script Shape Creator.
+4 Add Collider wannneer het figuur gemaakt is
+
+
+
+VERGEET DE clone TAGG NIET OP DE PREFABS
